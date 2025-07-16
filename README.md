@@ -1,6 +1,8 @@
 # Car Rental System
 
-- A project that manages rentals, users and payments for a car rental company
+- A project that manages rentals, users and payments for a car rental company.
+- The implementation is elaborated upon below, in step-by-step format.
+- Currently still in progress (latest progress: Custom users (for registration & login) set up.)
 
 # Step 1: Setup
 
